@@ -2,4 +2,4 @@ print "Hello, I can guess who you are. Just type the adjective that best describ
 if input = ("smelly")
 print "Hello Ash"
 if input = ("handsome")
-print "Hello Jon"
+print "Hello Bob"
