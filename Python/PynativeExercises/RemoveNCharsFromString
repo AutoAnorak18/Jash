@@ -1,4 +1,0 @@
-Word = str(input("enter a word: "))
-Number = int(input("enter a number: "))
-Length = int(len(Word))
-print(Word[(Length-Number),Length])
